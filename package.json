@@ -1,0 +1,12 @@
+{
+  "name": "Blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victortanzy123/Blockchain.git",
+  "author": "victortanzy123 <83770436+victortanzy123@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.4"
+  }
+}
